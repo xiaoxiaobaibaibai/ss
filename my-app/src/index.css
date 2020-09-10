@@ -48,3 +48,8 @@ ol, ul {
 .game-info {
     margin-left: 20px;
 }
+
+.local_pop_list {
+    overflow: auto; //设置scroll overflow
+-webkit-overflow-scrolling: touch; // 优化移动端滑动体验
+}
